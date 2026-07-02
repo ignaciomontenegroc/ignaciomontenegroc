@@ -1,13 +1,5 @@
 # Ignacio Montenegro
 
-> whoami
-Ignacio Montenegro
-
-> mode
-founder / student / AI builder / magician
-
-> currently
-teaching AI, building workflows, shipping experiments
 I build useful internet things, teach people how to actually use AI, and occasionally make playing cards.
 
 I am a founder and student from Santiago, Chile. Most of what I do sits somewhere between AI, product, education, growth, magic, and human behavior. I like tools that make people feel more capable, not more confused.
