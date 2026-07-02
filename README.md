@@ -8,9 +8,9 @@ I am a founder and student from Santiago, Chile. Most of what I do sits somewher
 
 - Personal site: [ignaciomontenegro.com](https://ignaciomontenegro.com)
 - LinkedIn: [linkedin.com/in/ignaciomontenegroc](https://www.linkedin.com/in/ignaciomontenegroc)
-- AsesorIAs: [ignaciomontenegro.com/asesorias/en](https://ignaciomontenegro.com/asesorias/en/)
-- Popl Chile: [popl.cl/en](https://popl.cl/en/)
-- 3D Playing Cards: [ignaciomontenegro.com/3d-cards/en](https://ignaciomontenegro.com/3d-cards/en)
+- AsesorIAs: [ignaciomontenegro.com/asesorias/en](https://ignaciomontenegro.com/asesorias/)
+- Popl Chile: [popl.cl/en](https://popl.cl/)
+- 3D Playing Cards: [ignaciomontenegro.com/3d-cards/en](https://ignaciomontenegro.com/3d-cards)
 
 ## What I Am Building
 
