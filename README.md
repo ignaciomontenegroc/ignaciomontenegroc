@@ -6,36 +6,82 @@ I am a founder and student from Santiago, Chile. Most of what I do sits somewher
 
 ## Start Here
 
-- Personal site: [ignaciomontenegro.com](https://ignaciomontenegro.com)
-- LinkedIn: [linkedin.com/in/ignaciomontenegroc](https://www.linkedin.com/in/ignaciomontenegroc)
-- AsesorIAs: [ignaciomontenegro.com/asesorias/en](https://ignaciomontenegro.com/asesorias/)
-- Popl Chile: [popl.cl/en](https://popl.cl/)
-- 3D Playing Cards: [ignaciomontenegro.com/3d-cards/en](https://ignaciomontenegro.com/3d-cards)
+<table>
+  <tr>
+    <td>
+      <a href="https://ignaciomontenegro.com"><b>Website</b></a><br>
+      <sub>ignaciomontenegro.com</sub>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/ignaciomontenegroc"><b>LinkedIn</b></a><br>
+      <sub>ignaciomontenegroc</sub>
+    </td>
+    <td>
+      <a href="https://ignaciomontenegro.com/asesorias/en/"><b>AsesorIAs</b></a><br>
+      <sub>AI coaching</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://popl.cl/en/"><b>Popl Chile</b></a><br>
+      <sub>DIgital Business Card</sub>
+    </td>
+    <td>
+      <a href="https://ignaciomontenegro.com/3d-cards/en"><b>3D Playing Cards</b></a><br>
+      <sub>Playing Cards</sub>
+    </td>
+    <td>
+      <b>Currently</b><br>
+      <sub>Building, Teaching, Experimenting</sub>
+    </td>
+  </tr>
+</table>
 
 ## What I Am Building
 
-**AsesorIAs**  
-My one-on-one AI coaching service. I help professionals and students use tools like ChatGPT, Claude, Gemini, Perplexity, NotebookLM, Granola, Lovable, Cursor, and Codex in their real work. Not theory. Not random prompt lists. The goal is simple: help people build judgment and independence with AI.
-
-**Popl Chile**  
-Digital business cards and NFC networking tools for Chile. I have been around this space for years, and I still like the idea that a small physical object can make an introduction smoother.
-
-**Uala**  
-A WhatsApp-native marketing operator for Chilean small and medium businesses. The idea is to help business owners get more customers without making them learn ad dashboards, AI tools, or complicated software.
-
-**ignaciomontenegro.com**  
-My personal site and public identity layer. I use it as a home for my projects, experiments, and the weird mix of things I care about.
+<table>
+  <tr>
+    <td width="50%">
+      <b><a href="https://ignaciomontenegro.com/asesorias/en/">AsesorIAs</a></b><br>
+      My one-on-one AI coaching service. I help professionals and students use AI in their real work. Not theory. Not random prompt lists. The goal is simple: help people build judgment and independence with AI.
+    </td>
+    <td width="50%">
+      <b><a href="https://popl.cl/en/">Popl Chile</a></b><br>
+      Digital business cards and NFC networking tools for Chile. I still like the idea that a small physical object can make an introduction smoother.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>Uala</b><br>
+      A WhatsApp-native marketing operator for Chilean small and medium businesses. The idea is to help business owners get more customers without making them learn ad dashboards, AI tools, or complicated software.
+    </td>
+    <td width="50%">
+      <b><a href="https://ignaciomontenegro.com">ignaciomontenegro.com</a></b><br>
+      My personal site and public identity layer. I use it as a home for my projects, experiments, and the weird mix of things I care about.
+    </td>
+  </tr>
+</table>
 
 ## Things I Have Made
 
-**3D Playing Cards**  
-A custom deck I created and produced with the United States Playing Card Company. It ended up being distributed through Murphy's Magic and listed by magic retailers around the world.
-
-**GitGraph**  
-A fun local Git history visualizer I built because I wanted a clearer way to see commits, branches, and repository state. Useful, but definitely more side quest than main project.
-
-**Other experiments**  
-I have built and explored small tools, apps, landing pages, prompt systems, AI workflows, product memos, and business experiments. Some shipped. Some failed. All of them taught me something.
+<table>
+  <tr>
+    <td width="50%">
+      <b><a href="https://ignaciomontenegro.com/3d-cards/en">3D Playing Cards</a></b><br>
+      A custom deck I created and produced with the United States Playing Card Company. It ended up being distributed through Murphy's Magic and listed by magic retailers around the world.
+    </td>
+    <td width="50%">
+      <b>GitGraph</b><br>
+      A fun local Git history visualizer I built because I wanted a clearer way to see commits, branches, and repository state. Useful, but definitely more side quest than main project.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <b>Other experiments</b><br>
+      Small tools, apps, landing pages, prompt systems, AI workflows, product memos, and business experiments. Some shipped. Some failed. All of them taught me something.
+    </td>
+  </tr>
+</table>
 
 ## What I Care About
 
@@ -51,11 +97,15 @@ I have built and explored small tools, apps, landing pages, prompt systems, AI w
 
 I like learning by making things real. A rough prototype, a user conversation, or a broken workflow usually teaches me more than a long abstract plan.
 
-The line I keep coming back to is:
+## Quotes I Like
 
-> I learn by building, breaking things, and treating every mistake as information.
+> "The people who are crazy enough to think they can change the world are the ones who do."
+>
+> Steve Jobs
 
-That is basically the operating system.
+> "Strive not to be a success, but rather to be of value."
+>
+> Albert Einstein
 
 ## Tools I Use A Lot
 
