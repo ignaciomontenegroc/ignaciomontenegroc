@@ -24,7 +24,7 @@ I am a founder and student from Santiago, Chile. Most of what I do sits somewher
   <tr>
     <td>
       <a href="https://popl.cl/en/"><b>Popl Chile</b></a><br>
-      <sub>DIgital Business Card</sub>
+      <sub>Digital Business Card</sub>
     </td>
     <td>
       <a href="https://ignaciomontenegro.com/3d-cards/en"><b>3D Playing Cards</b></a><br>
@@ -71,7 +71,7 @@ I am a founder and student from Santiago, Chile. Most of what I do sits somewher
       A custom deck I created and produced with the United States Playing Card Company. It ended up being distributed through Murphy's Magic and listed by magic retailers around the world.
     </td>
     <td width="50%">
-      <b>GitGraph</b><br>
+      <b><a href="https://github.com/ignaciomontenegroc/GitGraph">GitGraph</a></b><br>
       A fun local Git history visualizer I built because I wanted a clearer way to see commits, branches, and repository state. Useful, but definitely more side quest than main project.
     </td>
   </tr>
