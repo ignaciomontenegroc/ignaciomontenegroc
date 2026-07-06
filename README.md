@@ -109,11 +109,11 @@ I like learning by making things real. A rough prototype, a user conversation, o
 
 ## Tools I Use A Lot
 
-`Codex` `ChatGPT` `Claude` `Claude Code` `Cursor` `Vercel` `Supabase` `NotebookLM` `Wispr Flow` `Granola`
+`Codex` `ChatGPT` `Claude` `Claude Code` `Cursor` `Vercel` `Supabase` `Github` `NotebookLM` `Wispr Flow` `Granola` `WhatsApp` `Membase` `Fabric` `Blip` `Gmail` `Excel`
 
 ## Hardware I Use
 
-`reMarkable 2` `iPhone 13` `HP Laptop` `AirPods Pro 2` `HP Omen Monitor`
+`reMarkable 2` `iPhone 13` `AirPods Pro 2` `HP Laptop` `HP Omen Monitor` `Anker Power Banks` 
 
 ## What I Am Looking For
 
