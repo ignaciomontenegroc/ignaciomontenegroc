@@ -53,7 +53,7 @@ I am a founder and student from Santiago, Chile. Most of what I do sits somewher
   <tr>
     <td width="50%">
       <b>Uala</b><br>
-      A WhatsApp-native marketing operator for Chilean small and medium businesses. The idea is to help business owners get more customers without making them learn ad dashboards, AI tools, or complicated software.
+      In Stealth
     </td>
     <td width="50%">
       <b><a href="https://ignaciomontenegro.com">ignaciomontenegro.com</a></b><br>
