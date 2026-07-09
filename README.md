@@ -109,7 +109,7 @@ I like learning by making things real. A rough prototype, a user conversation, o
 
 ## Tools I Use A Lot
 
-`Codex` `ChatGPT` `Claude Code` `Vercel` `Supabase` `Github` `NotebookLM` `Wispr Flow` `Granola` `WhatsApp` `Membase` `Fabric` `Blip` `Gmail` `Excel`
+`Codex` `ChatGPT` `Claude Code` `Vercel` `Github` `NotebookLM` `Wispr Flow` `Granola` `Membase` `Fabric` `Blip` `WhatsApp` `Excel`
 
 ## Hardware I Use
 
