@@ -74,8 +74,8 @@ I never learned how to switch my curiosity off, so I build with it instead.
 
 ## Around The AI Ecosystem
 
-- **Founder of [Comunidad CachAI](https://cachai.club)**: a community for young people in Chile learning AI together, where members share discoveries, solve doubts, and learn from each other.
-- **Speaker at OpenAI DevDay Exchange Santiago (2026)**: helped organize the event and gave a talk on practical uses of ChatGPT agents.
+- **Founder of [Comunidad CachAI](https://cachai.club)**: A community for young people in Chile learning AI together, where members share discoveries, solve doubts, and learn from each other.
+- **Speaker at OpenAI DevDay Exchange Santiago (2026)**: Helped organize the event and gave a talk on practical uses of ChatGPT agents.
 - **Community Volunteer at [CHAIS (Chile AI Safety)](https://chais.cl/)**: I help keep the community active by surfacing news, research, and career opportunities in AI safety.
 - **Talking with builders**: I spend a lot of time meeting AI-native founders and community builders, trading notes on how people actually adopt these tools.
 
