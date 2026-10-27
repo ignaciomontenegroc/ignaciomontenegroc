@@ -23,26 +23,26 @@ I never learned how to switch my curiosity off, so I build with it instead.
       <sub>@imontenegroc</sub>
     </td>
     <td>
-      <a href="https://ignaciomontenegro.com/asesorias/en/"><b>AsesorIAs</b></a><br>
+      <a href="https://ignaciomontenegro.com/asesorias/"><b>AsesorIAs</b></a><br>
       <sub>1:1 AI coaching</sub>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://cachai.club"><b>Comunidad CachAI</b></a><br>
-      <sub>Young people and AI</sub>
+      <sub>AI Community for Students</sub>
     </td>
     <td>
       <a href="https://bytebybyte.si/"><b>ByteByByte</b></a><br>
-      <sub>Chile chapter lead</sub>
+      <sub>Chile Chapter Lead</sub>
     </td>
     <td>
       <a href="https://chais.cl/"><b>CHAIS</b></a><br>
       <sub>Chile AI Safety</sub>
     </td>
     <td>
-      <a href="https://ignaciomontenegro.com/3d-cards/en"><b>3D Playing Cards</b></a><br>
-      <sub>Custom deck</sub>
+      <a href="https://ignaciomontenegro.com/3d-cards/"><b>3D Cards</b></a><br>
+      <sub>Playing Cards</sub>
     </td>
   </tr>
 </table>
@@ -56,7 +56,7 @@ I never learned how to switch my curiosity off, so I build with it instead.
       A community I started in September 2026 for young people in Chile who want to learn AI together. Members share what they discover, ask questions, and help each other get past the "where do I even start" phase. Right now I am preparing PotencIA, a free online AI workshop shaped by what members told us they want to learn.
     </td>
     <td width="50%">
-      <b><a href="https://ignaciomontenegro.com/asesorias/en/">AsesorIAs</a></b><br>
+      <b><a href="https://ignaciomontenegro.com/asesorias/">AsesorIAs</a></b><br>
       My one-on-one AI coaching service. I help professionals and students use AI in their real work. Not theory. Not random prompt lists. The goal is simple: help people build judgment and independence with AI.
     </td>
   </tr>
@@ -66,12 +66,6 @@ I never learned how to switch my curiosity off, so I build with it instead.
       Building the Chile chapter of ByteByByte from the ground up, focused on digital and AI literacy.
     </td>
     <td width="50%">
-      <b>Uala</b><br>
-      In stealth.
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
       <b><a href="https://ignaciomontenegro.com">ignaciomontenegro.com</a></b><br>
       My personal site and public identity layer. A bilingual home for my projects, experiments, and the weird mix of things I care about.
     </td>
