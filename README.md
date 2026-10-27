@@ -95,7 +95,7 @@ I never learned how to switch my curiosity off, so I build with it instead.
   <tr>
     <td width="50%">
       <b>Stress Straws Chile</b><br>
-      A triple-impact venture (2023 to 2025): bamboo breathing straws that make stress relief simple, no meditation experience required.
+      A triple-impact venture (2023 to 2025): Bamboo breathing straws that make stress relief simple, no meditation experience required.
     </td>
     <td width="50%">
       <b><a href="https://github.com/ignaciomontenegroc/GitGraph">GitGraph</a></b><br>
@@ -140,11 +140,11 @@ I also treat AI agents as coworkers, not search boxes. Most of what I build now 
 
 ## Tools I Use A Lot
 
-`ChatGPT Pro` `Codex` `Claude Code` `T3 Code` `Vercel` `GitHub` `Supabase` `NotebookLM` `Wispr Flow` `Granola` `Membase` `Boardy` `Fabric` `Blip` `WhatsApp` `Excel`
+`ChatGPT` `Codex` `Claude Code` `T3 Code` `Grok Bot` `Vercel` `GitHub` `Wispr Flow` `Granola` `Membase` `Boardy` `Fabric` `Blip` `WhatsApp` `Excel`
 
 ## Hardware I Use
 
-`reMarkable 2` `iPhone 13` `AirPods Pro 2` `HP Laptop` `HP Omen Monitor` `Anker Power Banks`
+`reMarkable 2` `iPhone 13` `AirPods Pro 2` `HP Laptop` `HP Omen Monitor`
 
 ## What I Am Looking For
 
